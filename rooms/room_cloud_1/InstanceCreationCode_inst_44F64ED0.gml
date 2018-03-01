@@ -1,0 +1,1 @@
+next_room = room_cloud_2;

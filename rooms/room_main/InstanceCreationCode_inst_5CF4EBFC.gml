@@ -1,0 +1,1 @@
+next_room = obj_room_init.last_room;

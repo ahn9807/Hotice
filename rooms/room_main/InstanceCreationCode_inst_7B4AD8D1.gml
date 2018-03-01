@@ -1,0 +1,1 @@
+text = "This direction leads you to resume game"
