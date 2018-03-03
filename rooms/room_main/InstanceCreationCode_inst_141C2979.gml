@@ -1,0 +1,1 @@
+text = "This direction leads to start new journey"

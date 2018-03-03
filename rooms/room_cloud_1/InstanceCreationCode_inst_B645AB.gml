@@ -1,1 +1,0 @@
-text = "W or UP KEY with SPACE"

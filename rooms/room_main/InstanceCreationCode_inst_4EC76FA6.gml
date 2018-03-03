@@ -1,1 +1,0 @@
-text = "This direction leads you to new start"
