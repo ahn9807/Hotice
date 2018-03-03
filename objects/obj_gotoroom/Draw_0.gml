@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(place_meeting(x,y,obj_player) && flag == true)
+if(place_meeting(x,y,obj_player) && flag == true || gotoroomsignal == true)
 {
 	var _vx = camera_get_view_x(view_camera[0]);
 	var _vy = camera_get_view_y(view_camera[0]);
@@ -14,6 +14,7 @@ if(place_meeting(x,y,obj_player) && flag == true)
 
 	if((step/time) >= 1)
 	{
+		gotoroomsignal = false;
 		room_goto(next_room);
 	}
 	step++;

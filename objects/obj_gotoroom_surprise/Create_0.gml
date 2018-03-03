@@ -3,3 +3,5 @@
 next_room = room;
 step = 0;
 time = 30;
+flag = false;
+gotoroomsignal = false;

@@ -2,6 +2,7 @@
 // init the heart to save file
 heart = 10; 
 last_room = room;
+prev_room = room;
 xx =x;
 yy =y;
 step = 0;

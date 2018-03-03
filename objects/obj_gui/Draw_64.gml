@@ -49,7 +49,10 @@ var wy=device_mouse_y_to_gui(0);
 
 if(point_in_rectangle(wx,wy,30,30,104,104) && mouse_check_button_pressed(mb_left))
 {
-    
+    if(mouse_check_button_pressed(mb_left))
+	{
+		
+	}
 }
 else
 {
@@ -59,7 +62,7 @@ if(point_in_rectangle(wx,wy,30+64,30,104+64,104) && mouse_check_button_pressed(m
 {
 	if(mouse_check_button_pressed(mb_left))
 	{
-		obj_room_init.restart = true;
+		room_goto(room_main);
 	}	   
 }
 else

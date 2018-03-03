@@ -210,25 +210,6 @@
             }
         },
         {
-            "Key": "0ab79e85-a75c-47a9-92c3-8d676ce86e1d",
-            "Value": {
-                "id": "eebfa606-79d5-44f6-a427-b4994cb37aa2",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/obj_gotoroom_surprise\/obj_gotoroom_surprise.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0b5a95ee-86dd-4ca5-80a4-1a3c87628fd8",
             "Value": {
                 "id": "b4a99e90-c359-4d09-abfd-823a7763dcd6",
@@ -1898,6 +1879,25 @@
                 ],
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aa7e9558-61d1-4d78-9772-7f3b951da3bb",
+            "Value": {
+                "id": "02f756e9-3936-4c84-a929-3663fcfd8763",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_gotoroom_surprise\/obj_gotoroom_surprise.yy",
+                "resourceType": "GMObject"
             }
         },
         {
