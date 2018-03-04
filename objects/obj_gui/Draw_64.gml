@@ -49,21 +49,21 @@ var wy=device_mouse_y_to_gui(0);
 
 if(point_in_rectangle(wx,wy,30,30,104,104) && mouse_check_button_pressed(mb_left))
 {
-    if(mouse_check_button_pressed(mb_left))
+ 	if(mouse_check_button_pressed(mb_left) && room != room_main)
 	{
-		
-	}
+		room_goto(room_main);
+	}	
 }
 else
 {
-	draw_sprite(spr_menu,0,72,72); 
+	draw_sprite(spr_home,0,72,72); 
 }
 if(point_in_rectangle(wx,wy,30+64,30,104+64,104) && mouse_check_button_pressed(mb_left))
 {
-	if(mouse_check_button_pressed(mb_left))
+	 if(mouse_check_button_pressed(mb_left) && room != room_main)
 	{
-		room_goto(room_main);
-	}	   
+		room_restart();
+	}
 }
 else
 {

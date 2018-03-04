@@ -1,0 +1,1 @@
+sprite_ = spr_notice_press_x;

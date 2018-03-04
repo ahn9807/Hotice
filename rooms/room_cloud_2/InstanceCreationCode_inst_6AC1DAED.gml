@@ -1,0 +1,1 @@
+text = "At that time, I must find Princess and rescue her. For everyone's peace";

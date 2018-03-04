@@ -7,7 +7,8 @@
         "f01524d4-5f9d-494a-bc60-088ea132c358",
         "d9bf0a79-3b56-4de0-981d-09ae3b931376",
         "ff9bd8c3-377a-4ade-8fc7-295e365a0aa5",
-        "6d8a1a7e-e6e3-488f-8b56-9ef0ec60d5e6"
+        "6d8a1a7e-e6e3-488f-8b56-9ef0ec60d5e6",
+        "c2498bc3-490a-46db-9296-742befebe078"
     ],
     "filterType": "GMSprite",
     "folderName": "icons",

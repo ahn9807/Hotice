@@ -1,0 +1,1 @@
+text = "How you read this notice?";

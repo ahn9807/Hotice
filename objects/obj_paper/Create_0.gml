@@ -7,3 +7,4 @@ time = 30;
 alpha = 0;
 steps = 0;
 rot = random_range(-10,10);
+flag = false;

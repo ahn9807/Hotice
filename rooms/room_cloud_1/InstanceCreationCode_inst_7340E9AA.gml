@@ -1,0 +1,1 @@
+sprite_ = spr_notice_click_left;
