@@ -90,8 +90,11 @@ var is_meet = false;
 var is_who = noone;
 with(obj_player)
 {
-	is_meet = place_meeting(x,y,obj_paper);
-	is_who = instance_place(x,y,obj_paper);
+	if(keyboard_check_pressed(ord("C")))
+	{
+		is_meet = place_meeting(x,y,obj_paper);
+		is_who = instance_place(x,y,obj_paper);
+	}
 }
 {
 	if(is_meet)

@@ -6,7 +6,8 @@
     "children": [
         "ece11f9c-e007-4f6f-88e7-9a69de101a49",
         "27e2191d-73f7-4fda-b439-a3c3be47a106",
-        "a48a6510-f43d-4db8-980c-1e8ebd4d4295"
+        "a48a6510-f43d-4db8-980c-1e8ebd4d4295",
+        "2beb8662-f3a6-4efa-a3c8-fa86c91b7526"
     ],
     "filterType": "GMSprite",
     "folderName": "automoving",
